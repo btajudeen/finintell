@@ -1,0 +1,2 @@
+# finintell
+financial intelligence
